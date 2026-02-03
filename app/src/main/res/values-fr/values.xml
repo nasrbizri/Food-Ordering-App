@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Mon Application</string>
+
+<string name="pizzaname">Pizza</string>
+<string name="pizza">Notre délicieuse pizza ! Le meilleur fromage avec les meilleurs ingrédients !</string>
+
+<string name="lattee">Latte incroyablement délicieux ! Essayez-le et vous ne le regretterez pas !</string>
+
+<string name="extraCream">Ajouter de la crème supplémentaire 2 $</string>
+
+<string name="hastopping">A des garnitures :</string>
+<string name="hasCream">A de la crème :</string>
+
+<string name="addtocart">Ajouter au panier</string>
+
+<string name="hot">Chaud</string>
+<string name="cold">Froid</string>
+
+<string name="defaultprice">5 $ par commande</string>
+
+</resources>

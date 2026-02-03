@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+
+
+    <string name="pizzaname">Pizza</string>
+
+    <string name="pizza">Our delicious pizza! Best cheese with best toppings!</string>
+
+
+
+
+
+    <string name="lattee">Unbelievably good tasting lattee! Try it and you will not regret it!</string>
+
+
+
+
+
+    <string name="extraCream">Add Extra Cream $2</string>
+
+
+
+
+    <string name="hastopping">Has Toppings:</string>
+    <string name="hasCream">Has Cream:</string>
+
+
+
+    <string name="addtocart">Add to Cart</string>
+
+
+
+    <string name="hot">Hot</string>
+    <string name="cold">Cold</string>
+
+
+    <string name="defaultprice">$5 Per Order</string>
+
+</resources>
